@@ -1,2 +1,2 @@
 👋 Hi, I’m @amjcyber
-SOC Operation Manager & Incident Response lead at Cyberscope
+I do Threat Hunting and Incident Response
